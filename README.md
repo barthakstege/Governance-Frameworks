@@ -42,9 +42,9 @@ Deze standaard wordt gebruikt door Microsoft. Andere cloud providers, zoals Goog
 Microsoft staat bekend om het zelf gebruiken van Azure voor hun eigen workloads. Dit verschijnsel, dat _dogfooding_ heet, zorgt er voor dat de teams die werken aan Azure precies weten wat tekortkomingen zijn van het cloud platform. Andere cloud providers zullen volgens een zelfde soort principe werken. Bovendien wordt het framework en de cloud omgeving zelf constant aangepast op basis van de wens van (grote) organisaties. Op deze manier probeert Microsoft het framework up-to-date en relevant te houden. 
 
 ### Bronnen
-* Architect successful workloads on Azure | Well-Architected Framework. (2020, 11 november). [Video]. YouTube. https://www.youtube.com/watch?v=UpQHmWxkVEU
-* Microsoft. (2019a, september 27). Innovation in the digital economy - Cloud Adoption Framework. Microsoft Docs. https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/
+* _Architect successful workloads on Azure | Well-Architected Framework. (2020, 11 november)._ [Video]. YouTube. https://www.youtube.com/watch?v=UpQHmWxkVEU
+* Microsoft. (2019a, september 27). _Innovation in the digital economy - Cloud Adoption Framework._ Microsoft Docs. https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/
 Verwijzing in de tekst
-* Microsoft. (2019b, november 20). Microsoft Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework introduction. Microsoft Docs. https://docs.microsoft.com/en-us/azure/architecture/framework/
-* Stalcup, K. (2020, 15 september). The Azure Well-Architected Review is Worth Your Time. ParkMyCloud. https://www.parkmycloud.com/blog/azure-well-architected/
-* Wikipedia contributors. (2021, 16 januari). Eating your own dog food. Wikipedia. https://en.wikipedia.org/wiki/Eating_your_own_dog_food
+* Microsoft. (2019b, november 20). _Microsoft Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework introduction._ Microsoft Docs. https://docs.microsoft.com/en-us/azure/architecture/framework/
+* Stalcup, K. (2020, 15 september). _The Azure Well-Architected Review is Worth Your Time._ ParkMyCloud. https://www.parkmycloud.com/blog/azure-well-architected/
+* Wikipedia contributors. (2021, 16 januari). _Eating your own dog food._ Wikipedia. https://en.wikipedia.org/wiki/Eating_your_own_dog_food
