@@ -42,6 +42,7 @@ Deze standaard wordt gebruikt door Microsoft. Andere cloud providers, zoals Goog
 Microsoft staat bekend om het zelf gebruiken van Azure voor hun eigen workloads. Dit verschijnsel, dat _dogfooding_ heet, zorgt er voor dat de teams die werken aan Azure precies weten wat tekortkomingen zijn van het cloud platform. Andere cloud providers zullen volgens een zelfde soort principe werken. Bovendien wordt het framework en de cloud omgeving zelf constant aangepast op basis van de wens van (grote) organisaties. Op deze manier probeert Microsoft het framework up-to-date en relevant te houden. 
 
 ### Bronnen
+* Architect successful workloads on Azure | Well-Architected Framework. (2020, 11 november). [Video]. YouTube. https://www.youtube.com/watch?v=UpQHmWxkVEU
 * Microsoft. (2019a, september 27). Innovation in the digital economy - Cloud Adoption Framework. Microsoft Docs. https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/
 Verwijzing in de tekst
 * Microsoft. (2019b, november 20). Microsoft Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework introduction. Microsoft Docs. https://docs.microsoft.com/en-us/azure/architecture/framework/
