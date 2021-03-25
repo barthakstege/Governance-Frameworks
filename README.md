@@ -9,7 +9,7 @@ Voor deze opdracht heb ik gekozen voor het _Microsoft Azure Well-Architected Fra
 * Reliability 
 * Security
 
-![Screenshot](waf.png)
+![WAF](waf.png)
 
 Door een Azure omgeving langs deze pilaren te leggen kunnen er veranderingen gemaakt worden aan de omgeving om deze beter aan te laten sluiten op bedrijfsdoelstellingen. Organisaties die werken met Azure kunnen het framework beschouwen als een handleiding om hun bedrijfsdoelstellingen te laten slagen.
 
@@ -40,3 +40,10 @@ De sterke punten van dit framework zijn de toepasbaarheid in de praktijk. Organi
 Deze standaard wordt gebruikt door Microsoft. Andere cloud providers, zoals Google en Amazon, maken gebruik van vergelijkbare frameworks. Qua belangrijkste punten zijn de frameworks het eens met elkaar. Verschillen zitten vooral in de services die ingezet kunnen worden om te kunnen voldoen aan best practices. 
 
 Microsoft staat bekend om het zelf gebruiken van Azure voor hun eigen workloads. Dit verschijnsel, dat _dogfooding_ heet, zorgt er voor dat de teams die werken aan Azure precies weten wat tekortkomingen zijn van het cloud platform. Andere cloud providers zullen volgens een zelfde soort principe werken. Bovendien wordt het framework en de cloud omgeving zelf constant aangepast op basis van de wens van (grote) organisaties. Op deze manier probeert Microsoft het framework up-to-date en relevant te houden. 
+
+### Bronnen
+* Microsoft. (2019a, september 27). Innovation in the digital economy - Cloud Adoption Framework. Microsoft Docs. https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/
+Verwijzing in de tekst
+* Microsoft. (2019b, november 20). Microsoft Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework introduction. Microsoft Docs. https://docs.microsoft.com/en-us/azure/architecture/framework/
+* Stalcup, K. (2020, 15 september). The Azure Well-Architected Review is Worth Your Time. ParkMyCloud. https://www.parkmycloud.com/blog/azure-well-architected/
+* Wikipedia contributors. (2021, 16 januari). Eating your own dog food. Wikipedia. https://en.wikipedia.org/wiki/Eating_your_own_dog_food
